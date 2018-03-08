@@ -1,0 +1,57 @@
+html {
+    min-height: 100%;
+    max-width: 100%;
+    position: relative;
+}  
+body {
+    margin-bottom: 50px;
+    background-image: url("../images/fresh_snow.png");
+    
+}
+
+#footer {
+    bottom: 0;
+    width: 100%;
+    position: absolute;
+    height: 50px;
+    text-align: center;
+    padding: 10px;
+    background: #fff;
+    z-index: 99;
+}
+
+button {
+    margin: 20px;
+    margin-left: 0px; 
+}
+
+.card {
+    margin-top: 10px;
+}
+
+textarea {
+    height: 150px;
+  }
+#tallText {
+    width: 100%;
+}
+
+.mainHeader {
+    background: #fff;
+    border-bottom: 2px solid #ccc;
+    z-index: 99;
+}
+
+.container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h3 {
+    padding-left: 20px;
+}
+
+
+.text-inline {
+    display: inline;
+}
